@@ -7,4 +7,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 Tools used: Java script, D3 and Plotly
 Created a Bar chart, Bubble chart and a demographic drop down feature
 
-Githhub Pages Deployment:  
+Githhub Pages Deployment:  https://bhagi2960.github.io/belly-button-challenge/
